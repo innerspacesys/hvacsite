@@ -56,7 +56,7 @@ export default function HomePage() {
         alt: "Commercial HVAC equipment",
       },
       {
-        src: "https://images.unsplash.com/photo-1660485504470-4b6ce1d7a2b2?auto=format&fit=crop&fm=jpg&q=80&w=2000",
+        src: "https://plus.unsplash.com/premium_photo-1664298059861-1560b39fb890?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         alt: "Residential HVAC service",
       },
       {
